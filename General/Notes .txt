@@ -1,0 +1,4 @@
+time.sleep(3) # tomake the app sleep for any time like delay 
+qt_app.close() # to close the app 
+self.showMaximized() # max mizi the app any time 
+self.setWindowTitle("My App"); # to set the window title 
